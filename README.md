@@ -5,7 +5,11 @@ The project aims to build a predictive model for NBA game winners using machine 
 
 ## Tools 
 - `Python >= 3.x`
-- `Numpy, Scikit-learn, TensorFlow, Matplotlib, Pandas`
+- `Numpy`
+- `Scikit-learn`
+- `TensorFlow`
+- `Matplotlib`
+- `Pandas`
 
 ## Run Guide
 - Please follow step-by-step in NBA_Model Final Report.ipynb
